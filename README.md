@@ -1,4 +1,4 @@
-# depth estimation or completion papers to read
+# range densification papers to read
 
 All of these are temporary, and can be removed or replaced with more suitable papers for our case. 
 
